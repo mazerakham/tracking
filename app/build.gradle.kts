@@ -9,9 +9,8 @@ android {
 
     defaultConfig {
         applicationId = "com.jake.tracking"
-        minSdk = 24
+        minSdk = 30
         targetSdk = 34
-        minSdkVersion = 30  // For compatibility with older devices like Galaxy A53
         versionCode = 1
         versionName = "1.0"
 
